@@ -1,3 +1,4 @@
+package sinPOM;
 import java.time.Duration;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
